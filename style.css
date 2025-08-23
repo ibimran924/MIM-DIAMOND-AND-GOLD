@@ -85,6 +85,13 @@ body{
     display: block;
     color: gold;
 }
+.footer-menu p {
+    justify-content: center;
+    display: flex;
+    font-size: 21px;
+    color: bisque;
+    background: black;
+}
 
 .main-photo {
     width: 50%;
