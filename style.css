@@ -7,6 +7,12 @@ body{
     text-transform: uppercase;
 
 }
+.bxslaider-partner {
+    width: 800px;
+    margin: auto;
+    justify-content: end;
+    display: flex;
+}
 
 .header-full-width {
     background: black;
