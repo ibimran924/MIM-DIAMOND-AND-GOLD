@@ -128,3 +128,110 @@ body{
 .main-body {
     padding: 15px;
 }
+.main-box {
+    margin-bottom: 15px;
+}
+.main-box-photo {
+    width: 1240px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.main-box-photo-1 {
+    width: 17%;
+}
+
+.main-box-photo-1 img {
+    max-width: 100%;
+    display: flex;
+    padding: 10px;
+}
+.contact-box-item-1 {
+    width: 1240px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+.contact-box-item-1-photo {
+    width: 40%;
+}
+
+.contact-box-item-1-text {
+    width: 55%;
+}
+
+.contact-box-item-1-photo img {
+    width: 100%;
+    display: flex;
+}
+
+.contact-box-item-1-text h1 {
+    font-size: 28px;
+}
+
+.contact-box-item-1-text h2 {
+    /* padding: 20px; */
+    font-size: 15px;
+    line-height: 207%;
+    padding-top: 20px;
+}
+
+.contact-box-item-1-text {
+    padding: 43px;
+    color: darkolivegreen;
+    background: bisque;
+}
+
+h1 {}
+
+.contact-box-item-1-text h3 {
+    font-size: 18px;
+    padding-top: 50px;
+}
+
+.contact-box-1 {
+    margin-bottom: 20px;
+}
+.contact-box-item-2 {
+    width: 1240px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-box-item-2-text {
+    width: 49%;
+}
+
+.contact-box-item-2-photo {
+    width: 33%;
+}
+
+h4 {}
+
+.contact-box-item-2-text-4 {
+    font-size: 27px;
+}
+
+.contact-box-item-2-text h4 {
+    font-size: 24px;
+}
+
+
+
+
+.contact-box-item-2-text h5 {
+    font-size: 13px;
+    padding-top: 14px;
+    line-height: 180%;
+}
+
+.contact-box-item-2-text h6 {
+    font-size: 16px;
+    padding-top: 30px;
+}
