@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MIM DIAMOND&GOLD</title>
+    <link rel="stylesheet" href="style.css">
+
+    
+</head>
+<body>
+        
+        <!-- header-full-width start -->
+        <div class="header-full-width">
+        <!-- header start -->
+        <div class="header">
+            <!-- main-logo start -->
+            <div class="main-logo">
+                <a href="index.html">
+                    <img src="images/main-logo.jpg.jpg" alt="main logo">
+                </a>
+            </div>
+            <!-- main-logo end-->
+             <!-- main-menu start -->
+             <div class="main-menu">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">home</a></li>
+                        <li><a href="contact.html">contact</a></li>
+                        <li><a href="about.html">about</a></li>
+                        <li><a href="contact us.html">contact us</a></li>
+                        <li><a href="about us.html">about us.html</a></li>
+                    </ul>
+                </nav>
+             </div>
+             <!-- main-menu end -->
+        </div>
+        <!-- header end -->
+         </div>
+         <!-- header-full-width end -->
+
+      
+
+         <!-- footer start -->
+         <div class="footer">
+            <div class="footer-menu">
+            <nav>
+                <ul>
+                    <li><a href="#">gold</a></li>
+                    <li><a href="#">diamond</a></li>
+                    <li><a href="#">silver</a></li>
+                </ul>
+              
+            </nav>
+              <p> gmail:mimdiamondandgold@gmail.com</p>
+         </div>
+         </div>
+         <!-- footer end-->
+    
+</body>
+</html>

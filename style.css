@@ -79,6 +79,7 @@ body{
 }
 .footer {
     background: gray;
+    margin-bottom: 20px;
 }
 
 .footer-menu nav ul {
@@ -202,14 +203,17 @@ h1 {}
     margin: auto;
     display: flex;
     justify-content: center;
+    margin-bottom: 23px;
 }
 
 .contact-box-item-2-text {
-    width: 49%;
+    width: 52%;
+    padding: 23px;
+    background: aqua;
 }
 
 .contact-box-item-2-photo {
-    width: 33%;
+    width: 43%;
 }
 
 h4 {}
@@ -223,8 +227,6 @@ h4 {}
 }
 
 
-
-
 .contact-box-item-2-text h5 {
     font-size: 13px;
     padding-top: 14px;
@@ -234,4 +236,8 @@ h4 {}
 .contact-box-item-2-text h6 {
     font-size: 16px;
     padding-top: 30px;
+}
+.contact-box-item-2-photo img {
+    max-width: 100%;
+    display: flex;
 }
