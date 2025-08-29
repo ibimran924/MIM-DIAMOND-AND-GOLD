@@ -7,12 +7,12 @@ body{
     text-transform: uppercase;
 
 }
-.bxslaider-partner {
+/* .bxslaider-partner {
     width: 800px;
     margin: auto;
     justify-content: end;
     display: flex;
-}
+} */
 
 .header-full-width {
     background: black;
@@ -56,7 +56,7 @@ body{
     display: flex;
 }
 
-.header {}
+
 
 .main-menu nav ul {
     list-style: none;
@@ -240,4 +240,11 @@ h4 {}
 .contact-box-item-2-photo img {
     max-width: 100%;
     display: flex;
+}
+
+.bxslaider-partner-main {
+    margin: auto;
+    width: 1240px;
+    display: flex;
+    justify-content: center;
 }
